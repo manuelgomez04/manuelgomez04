@@ -9,6 +9,6 @@ Algunas de las tecnologías que uso
 📊 Estadísticas GitHub
 GitHub Stats Top Langs
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brrrr1&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrrr1&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelgomez04&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgomez04&layout=compact&theme=radical" alt="Top Langs"/>
 </p>s
