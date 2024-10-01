@@ -1,5 +1,6 @@
 Manuel Gómez 👋
 Visitas al perfil
+![Visitas al perfil](https://komarev.com/ghpvc/?username=manuelgomez04&color=red)
 
 ¡Bienvenido a mi perfil de GitHub!
 🛠 Tecnologías que uso
