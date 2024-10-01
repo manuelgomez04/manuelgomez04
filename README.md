@@ -1,9 +1,11 @@
-Manuel Gómez 👋
-Visitas al perfil
+##Manuel Gómez 👋
+
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=manuelgomez04&color=red)
 
-¡Bienvenido a mi perfil de GitHub!
-🛠 Tecnologías que uso
+# ¡Bienvenido a mi perfil de GitHub!
+## 🛠 Tecnologías que uso
+<p align="center">
+  
 Algunas de las tecnologías que uso
  <img src="https://i.imgur.com/kzgSUIV.png" alt="Algunas de las tecnologías que uso" width=auto/>
 
@@ -12,4 +14,5 @@ GitHub Stats Top Langs
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuelgomez04&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgomez04&layout=compact&theme=radical" alt="Top Langs"/>
-</p>s
+</p>
+</p>
