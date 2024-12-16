@@ -6,7 +6,7 @@
 <p align="center">
   
 Algunas de las tecnologías que uso
- <img src="https://i.postimg.cc/RhbpWyfP/docker-Logo.png" alt="Algunas de las tecnologías que uso" width=auto/>
+ <img src="https://i.postimg.cc/3rnxL1Yn/Dise-o-sin-t-tulo.png" alt="Algunas de las tecnologías que uso" width=auto/>
 
 📊 Estadísticas GitHub
 GitHub Stats Top Langs
